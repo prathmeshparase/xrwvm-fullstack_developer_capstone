@@ -1,0 +1,40 @@
+curl -X GET "http://localhost:3030/fetchDealers"
+
+[
+  {
+    "id": 1,
+    "city": "El Paso",
+    "address": "33",
+    "zip": "79904",
+    "state": "Texas",
+    "st": "TX",
+    "lat": 31.8167,
+    "long": -106.433,
+    "short_name": "El Paso Dealership",
+    "full_name": "El Paso Car Dealership"
+  },
+  {
+    "id": 2,
+    "city": "Chicago",
+    "address": "63",
+    "zip": "60601",
+    "state": "Illinois",
+    "st": "IL",
+    "lat": 41.8373,
+    "long": -87.6862,
+    "short_name": "Chicago Dealership",
+    "full_name": "Chicago Car Dealership"
+  },
+  {
+    "id": 3,
+    "city": "Silver Spring",
+    "address": "25",
+    "zip": "20901",
+    "state": "Maryland",
+    "st": "MD",
+    "lat": 38.994,
+    "long": -77.028,
+    "short_name": "Silver Spring Dealership",
+    "full_name": "Silver Spring Car Dealership"
+  }
+]

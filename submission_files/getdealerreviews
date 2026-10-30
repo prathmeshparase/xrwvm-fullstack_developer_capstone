@@ -1,0 +1,15 @@
+curl -X GET "http://localhost:3030/fetchReviews/dealer/1"
+
+[
+  {
+    "id": 1,
+    "name": "Berkly Welds",
+    "dealership": 1,
+    "review": "Total grid-enabled service-desk. Great car buying experience!",
+    "purchase": true,
+    "purchase_date": "02/19/2021",
+    "car_make": "Toyota",
+    "car_model": "Corolla",
+    "car_year": 2020
+  }
+]
