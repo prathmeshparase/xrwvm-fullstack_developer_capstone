@@ -14,3 +14,4 @@ curl -X GET "http://localhost:3030/fetchDealers/Kansas"
     "full_name": "Topeka Best Car Dealership"
   }
 ]
+

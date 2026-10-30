@@ -38,3 +38,4 @@ curl -X GET "http://localhost:3030/fetchDealers"
     "full_name": "Silver Spring Car Dealership"
   }
 ]
+

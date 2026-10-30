@@ -3,3 +3,4 @@ curl -X POST "http://localhost:8000/djangoapp/login" \
   -d '{"userName": "root", "password": "rootpassword"}'
 
 {"userName": "root", "status": "Authenticated"}
+
